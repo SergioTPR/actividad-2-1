@@ -1,6 +1,7 @@
 import streamlit as st
 
-st.title("🎈 My new app")
+st.title("CIENCIAS DE LA COMPUTACIÓN")
+st.subheader(
+    "ACTIVIDAD 2.1.- Programar mi primera aplicación web")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
-)
+    "Sergio Az. Departamento de Tecnología")
